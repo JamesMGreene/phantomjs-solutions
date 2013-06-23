@@ -27,8 +27,7 @@ script, including adjusting all of the `phantom` and `system` values to
 behave as if the target script had been the one executed from the shell
 rather than the chain-loader script.
 
-*Created on:*    2013-05-23
-*Last updated:*  2013-06-20
-*Created for:*   https://github.com/ariya/phantomjs/issues/10687
-
+ - **Created for:**  &nbsp; &nbsp; &nbsp; https://github.com/ariya/phantomjs/issues/10687
+ - **Created on:** &nbsp; &nbsp; &nbsp; 2013-05-23
+ - **Last updated:** &nbsp;&nbsp; 2013-06-20
 
