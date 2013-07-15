@@ -48,3 +48,13 @@ function; in this script, it is called: `_change_onLine`.
  - **Last updated:** &nbsp;&nbsp; 2013-06-19
 
 
+
+## [change-client-userAgent.js](https://github.com/JamesMGreene/phantomjs-solutions/blob/master/solutions/change-client-userAgent.js)
+
+Someone on the mailing list asked a question about changing a single
+property on `window.navigator` (`userAgent`, in this case) without having
+to do a lot of work to set all of the other properties.
+
+ - **Created for:**  &nbsp; &nbsp; &nbsp; https://groups.google.com/d/topic/phantomjs/K9onzelfgy4/discussion
+ - **Created on:** &nbsp; &nbsp; &nbsp; 2013-05-30
+ - **Last updated:** &nbsp;&nbsp; 2013-05-30
