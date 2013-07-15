@@ -12,7 +12,7 @@
 * similar engines (e.g. Node.js), I proposed a chain-loading script to serve  *
 * as a workaround (perhaps temporarily, perhaps permanently).                 *
 *                                                                             *
-* This script sets up an approrpriate `phantom.onError` handler and then      *
+* This script sets up an appropriate `phantom.onError` handler and then       *
 * executes the target script specified as the first arg to the chain-loader   *
 * script, including adjusting all of the `phantom` and `system` values to     *
 * behave as if the target script had been the one executed from the shell     *
