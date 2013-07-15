@@ -69,7 +69,7 @@ page.onConsoleMessage = function(msg) {
   console.log("Message from " + page.url + ":\n  " + msg);
 };
 
-page.open("http://www.google.com", function(status) {
+page.open("http://www.google.com", function(/* pageStatus */) {
   page.evaluate(function() {
     // Set up some normal event handlers if they aren't already on the page.
     var statusListener = function(e) {
