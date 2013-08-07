@@ -106,7 +106,7 @@ console.log('OUTER!');
 console.log(' - phantom.scriptName: ' + JSON.stringify(phantom.scriptName));
 console.log(' - phantom.libraryPath: ' + JSON.stringify(phantom.libraryPath));
 console.log(' - phantom.args: ' + JSON.stringify(phantom.args));
-console.log(' - system.scriptName: ' + JSON.stringify(require('system').args));
+console.log(' - system.args: ' + JSON.stringify(require('system').args));
 */
 
 // Now run the real code
@@ -116,7 +116,7 @@ console.log(' - system.scriptName: ' + JSON.stringify(require('system').args));
   console.log(' - phantom.scriptName: ' + JSON.stringify(phantom.scriptName));
   console.log(' - phantom.libraryPath: ' + JSON.stringify(phantom.libraryPath));
   console.log(' - phantom.args: ' + JSON.stringify(phantom.args));
-  console.log(' - system.scriptName: ' + JSON.stringify(require('system').args));
+  console.log(' - system.args: ' + JSON.stringify(require('system').args));
   */
 
   phantom.injectJs(require('system').args[0]);
