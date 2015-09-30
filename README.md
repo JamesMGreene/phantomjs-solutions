@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/JamesMGreene/phantomjs-solutions.png)](https://travis-ci.org/JamesMGreene/phantomjs-solutions)
+[![Build Status](https://travis-ci.org/JamesMGreene/phantomjs-solutions.png?branch=master)](https://travis-ci.org/JamesMGreene/phantomjs-solutions)
 
 # phantomjs-solutions
 
