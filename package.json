@@ -1,12 +1,12 @@
 {
   "name": "phantomjs-solutions",
   "description": "A collection of the more interesting PhantomJS scripts that I've created as workarounds for various users on the mailing list and issue tracker.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/JamesMGreene/phantomjs-solutions",
   "author": {
     "name": "James M. Greene",
     "email": "james.m.greene@gmail.com",
-    "url": "http://jamesgreene.net/"
+    "url": "http://greene.io/"
   },
   "repository": {
     "type": "git",
